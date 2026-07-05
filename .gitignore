@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment & Secrets
+.env
+
+# Airflow
+logs/
+plugins/__pycache__/
+
+# Docker
+.docker/
+
+# IDE
+.vscode/
